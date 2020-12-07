@@ -1,0 +1,14 @@
+apiVersion: v2
+publisher: esbenp
+name: prettier-vscode
+version: 5.8.0
+type: VS Code extension
+displayName: prettier-vscode
+title: prettier-vscode
+description: prettier-vscode
+icon: https://www.eclipse.org/che/images/logo-eclipseche.svg
+repository: https://github.com/mhutchie/vscode-git-graph
+category: SCM
+spec:
+  extensions:
+    - https://open-vsx.org/api/esbenp/prettier-vscode/5.8.0/file/esbenp.prettier-vscode-5.8.0.vsix
